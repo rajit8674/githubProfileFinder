@@ -17,7 +17,6 @@ https://your-username.github.io/github-profile-finder/
 - Modern and responsive UI  
 - Error handling for invalid users  
 
-##  API
-https://api.github.com/users/{username}
+
 
 
