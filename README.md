@@ -3,7 +3,7 @@
 A simple web app to search GitHub users and view their profile details using the GitHub Public API.
 
 ##  Live Demo
-https://your-username.github.io/github-profile-finder/
+https://rajit8674.github.io/githubProfileFinder/
 
 ##  Tech Stack
 - HTML
