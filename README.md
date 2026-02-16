@@ -5,7 +5,7 @@ A simple web app to search GitHub users and view their profile details using the
 ##  Live Demo
 https://rajit8674.github.io/githubProfileFinder/
 
-##  Tech Stack
+##  Tech 
 - HTML
 - CSS
 - JavaScript
