@@ -1,4 +1,4 @@
-#  GitHub Profile
+#  GitHub Profile finder
 
 A simple web app to search GitHub users and view their profile details using the GitHub Public API.
 
