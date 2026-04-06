@@ -18,5 +18,5 @@ https://rajitmaurya.github.io/githubProfileFinder/
 - Error handling for invalid users  
 
 
-
+## Learning in public - Rajit Maurya
 
